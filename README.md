@@ -1,7 +1,11 @@
 👋 Hi, I'm Nancy Kumari
+
 AI/ML Enthusiast | Full-Stack Developer | Problem Solver
+
 💡 Passionate about building intelligent systems and scalable web solutions.
+
 🌱 Currently learning advanced ML algorithms, cloud computing, and modern web frameworks.
+
 🚀 Eager to collaborate on open-source, hackathons, and projects that merge AI with real-world impact.
 
 # 💻 Tech Stack:
@@ -21,7 +25,11 @@ AI/ML Enthusiast | Full-Stack Developer | Problem Solver
 [![](https://visitcount.itsvg.in/api?id=Nancy727&icon=0&color=9)](https://visitcount.itsvg.in)
 
 📫 Let's Connect!
+
 💬 Ask me about: AI, Web Dev, or how to stay motivated while debugging!
+
 🤝 Collaborate: Open to hackathons, research.
+
 📧 Email: nancykumari742004@gmail.com
+
 🔗 LinkedIn: www.linkedin.com/in/nancy-kumari-014313297
