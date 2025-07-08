@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/1599d7107019725.5f9d3c7bae636.gif" width="100%" alt="Hello Banner">
 </div>
