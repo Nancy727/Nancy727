@@ -25,11 +25,6 @@ AI/ML Enthusiast | Full-Stack Developer | Problem Solver
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nancy727&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nancy727&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nancy727&icon=0&color=9)](https://visitcount.itsvg.in)
